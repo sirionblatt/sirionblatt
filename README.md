@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sirionblatt
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning website development.
-- 💞️ I’m collaborating with my colleague in our company SYS.
+- 💞️ I’m collaborating with a friend.
 - 📫 How to reach me: Discord -> SirionBlatt#3808 (no spam, please include your concern at first)
 - ⚡️ My website: sirionblatt.de
 
