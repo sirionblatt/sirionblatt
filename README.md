@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning website development.
 - 💞️ I’m collaborating with a friend.
-- 📫 How to reach me: Discord -> SirionBlatt#3808 (no spam, please include your concern at first)
+- 📫 How to reach me: Discord -> sirionblatt (don't spam)
 - ⚡️ My website: sirionblatt.de
 
 <!---
